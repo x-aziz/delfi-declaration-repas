@@ -58,7 +58,7 @@ export const EMPLOYEE_DATABASE = {
     },
     {
       id: 'emp003',
-      email: 'abdelsalam.marahrah@delfiv.com',
+      email: 'abdessalam.marahrah@delfiv.com',
       name: 'عبد السلام مرحرح',
       nameEn: 'Abdelsalam Marahrah',
       role: 'employee',
